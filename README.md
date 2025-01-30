@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/genius-0963/Notes_Talker/" style="color: black"><span>NOTEZY</span></a><br>
+  <a href="https://github.com/genius-0963/Notes_Talker/" style="color: black"><span>Notes_talker</span></a><br>
 </h1>
 
 <p align="center">
@@ -11,15 +11,15 @@
 
 ## Overview
 
-Notezy is a centralized note-taking and referencing app designed specifically for students. The app aims to simplify the process of finding and storing notes for exams and future reference. Unlike other note-taking apps, Notezy provides a filtering system that allows users to easily search for notes according to degree, college/school, branch, subject, and section.
+Notes_talker is a centralized note-taking and referencing app designed specifically for students. The app aims to simplify the process of finding and storing notes for exams and future reference. Unlike other note-taking apps, Notezy provides a filtering system that allows users to easily search for notes according to degree, college/school, branch, subject, and section.
 
 The app is currently being developed using React Native Expo, which allows it to be available on iOS, Android, and web platforms. Firebase Firestore is used as the backend database, providing NoSQL structured data storage that is easy to scale and set up. The integration of Firebase also ensures authentication and security for users.
 
-Notezy's basic version (v0) includes a rudimentary configuration, basic frontend, and user authentication features such as sign-up and sign-in. Users can upload and view notes, as well as switch between light and dark themes. The app is currently in progress with the addition of note filtering and storing capabilities, as well as the option to add and retrieve favorites.
+Notes_talker's basic version (v0) includes a rudimentary configuration, basic frontend, and user authentication features such as sign-up and sign-in. Users can upload and view notes, as well as switch between light and dark themes. The app is currently in progress with the addition of note filtering and storing capabilities, as well as the option to add and retrieve favorites.
 
 In the future, Notezy will include different categories such as assignments, tests and papers, and class notes. The app will also support shared group studying and teaching, allowing users to collaborate and share notes with each other.
 
-Notezy's biggest challenges include state management using Redux, Firebase storage fetch all files, and hierarchical tree structures for the filtering system. However, the app's innovative design and focus on student needs make it a promising tool for simplifying note-taking and referencing.
+Notes_talker's biggest challenges include state management using Redux, Firebase storage fetch all files, and hierarchical tree structures for the filtering system. However, the app's innovative design and focus on student needs make it a promising tool for simplifying note-taking and referencing.
 
 ## Screenshot
 
@@ -45,4 +45,79 @@ Clone this repo (or download code zip file):
 ```bash
 $ git clone https://github.com/genius-0963/Notes_Talker.git
 $ cd Notes_App
+# 🌟 Notes_sphere 📚 | The Ultimate Note-Taking Solution
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76216765/234062268-d3213076-dd10-4de7-bcbd-992e3fc27350.jpg" width="600"/>
+</p>
+--
+
+## 🎯 Key Features
+💡 **Advanced Note Filtering** – Search notes by academic parameters.  
+🔐 **Secure Authentication** – Seamless sign-up & sign-in using Firebase.  
+📂 **Upload & Download Notes** – Effortlessly manage study materials.  
+⭐ **Save Favorites** – Quick access to your most important notes.  
+🌙 **Light/Dark Mode** – Customize your user experience.  
+🤝 **Collaboration (Coming Soon)** – Share and study together!  
+📱 **Cross-Platform Support** – Runs on iOS, Android & Web.
+
+---
+
+## 🛠️ Tech Stack
+- ⚛️ **React Native Expo** – Modern mobile app framework.
+- 🔥 **Firebase Firestore** – Scalable NoSQL database & authentication.
+- 🔄 **Redux** – Efficient state management.
+- 🎨 **React Navigation** – Smooth multi-screen experience.
+- ☁️ **Firebase Storage** – Secure cloud-based file storage.
+
+---
+
+## 📥 Installation Guide
+```sh
+# Clone the repository
+$ git clone https://github.com/haruheero/Notes_App.git
+
+# Navigate to the project directory
+$ cd Notes_App
+
+# Install dependencies
+$ npm install
+
+# Start the application
+$ expo start
+```
+
+---
+
+## 📂 Folder Structure
+```
+Notes_sphere/
+│── 📄 app.js
+│── 📦 package.json
+│── 🔥 firebaseConfig.js
+│── 📁 Redux/
+│   ├── 🔧 Actions/
+│   ├── 🔄 Reducers/
+│   ├── 🏛️ store.js
+│── 🖥️ Screens/
+│   ├── 🏠 Main Screens/
+│   ├── 👤 Account Screens/
+│   ├── ⚙️ Setting Screens/
+│── 📌 Navigators/
+│── 📜 Components/
+│── 🎨 Assets/
+│── 🖌️ Stylesheets/
+```
+
+---
+
+## 🤝 Contributing
+🚀 **Want to improve Notes_sphere?** Fork the repository and submit a pull request. 
+📢 **Join our community and help build the ultimate note-taking app!**
+
+---
+
+## 📜 License
+📝 This project is **open-source** and licensed under the **MIT License**. Feel free to use and contribute! 🎉
+
 
