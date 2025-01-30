@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/genius-0963/Notes_Talker/" style="color: black"><span>Notes_talker</span></a><br>
+  <a href="https://github.com/genius-0963/Notes_Talker/" style="color: black"><span>Notes_Talker</span></a><br>
 </h1>
 
 <p align="center">
@@ -111,6 +111,7 @@ Notes_sphere/
 
 
 ## 🤝 Contributing
+
 🚀 **Want to improve Notes_sphere?** Fork the repository and submit a pull request. 
 📢 **Join our community and help build the ultimate note-taking app!**
 
