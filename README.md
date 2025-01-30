@@ -42,7 +42,7 @@ Notes_talker's biggest challenges include state management using Redux, Firebase
 
 Clone this repo (or download code zip file):
 
-```bash
+
 $ git clone https://github.com/genius-0963/Notes_Talker.git
 $ cd Notes_App
 # 🌟 Notes_sphere 📚 | The Ultimate Note-Taking Solution
@@ -73,7 +73,7 @@ $ cd Notes_App
 ---
 
 ## 📥 Installation Guide
-```sh
+
 # Clone the repository
 $ git clone https://github.com/haruheero/Notes_App.git
 
@@ -109,7 +109,6 @@ Notes_sphere/
 │── 🖌️ Stylesheets/
 ```
 
----
 
 ## 🤝 Contributing
 🚀 **Want to improve Notes_sphere?** Fork the repository and submit a pull request. 
